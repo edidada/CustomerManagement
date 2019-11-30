@@ -1,9 +1,9 @@
-package Demo;
+package cn.wdidada.servlet.test.Demo;
 
 import cn.itcast.commons.CommonUtils;
 import cn.itcast.jdbc.TxQueryRunner;
-import dao.CustomerDao;
-import domain.Customer;
+import cn.wdidada.servlet.test.dao.CustomerDao;
+import cn.wdidada.servlet.test.domain.Customer;
 import org.apache.commons.dbutils.QueryRunner;
 
 /**

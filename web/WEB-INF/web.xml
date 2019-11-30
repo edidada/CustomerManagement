@@ -5,7 +5,7 @@
          version="3.1">
     <servlet>
         <servlet-name>CustomerServlet</servlet-name>
-        <servlet-class>servlet.CustomerServlet</servlet-class>
+        <servlet-class>cn.wdidada.servlet.test.servlet.CustomerServlet</servlet-class>
     </servlet>
 
 

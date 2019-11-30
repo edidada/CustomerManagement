@@ -1,10 +1,10 @@
-package servlet;
+package cn.wdidada.servlet.test.servlet;
 
 import cn.itcast.commons.CommonUtils;
 import cn.itcast.servlet.BaseServlet;
-import domain.Customer;
-import domain.PageBean;
-import service.CustomerService;
+import cn.wdidada.servlet.test.domain.Customer;
+import cn.wdidada.servlet.test.domain.PageBean;
+import cn.wdidada.servlet.test.service.CustomerService;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;

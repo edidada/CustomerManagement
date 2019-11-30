@@ -35,10 +35,10 @@
 
 2.建包
 
-- dao
-- service
-- servlet
-- domain
+- cn.wdidada.servlet.test.dao
+- cn.wdidada.servlet.test.service
+- cn.wdidada.servlet.test.servlet
+- cn.wdidada.servlet.test.domain
 
 ## 搭建环境
 IntelliJ IDEA  +  MySQL  或者  eclipse + MySQL

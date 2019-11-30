@@ -1,10 +1,8 @@
-package service;
+package cn.wdidada.servlet.test.service;
 
-import dao.CustomerDao;
-import domain.Customer;
-import domain.PageBean;
-
-import java.util.List;
+import cn.wdidada.servlet.test.dao.CustomerDao;
+import cn.wdidada.servlet.test.domain.Customer;
+import cn.wdidada.servlet.test.domain.PageBean;
 
 /**
  * Created by codingBoy on 16/10/23.

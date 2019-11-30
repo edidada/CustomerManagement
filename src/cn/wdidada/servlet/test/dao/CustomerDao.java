@@ -1,9 +1,8 @@
-package dao;
+package cn.wdidada.servlet.test.dao;
 
 import cn.itcast.jdbc.TxQueryRunner;
-import domain.Customer;
-import domain.PageBean;
-import org.apache.commons.collections.buffer.CircularFifoBuffer;
+import cn.wdidada.servlet.test.domain.Customer;
+import cn.wdidada.servlet.test.domain.PageBean;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanHandler;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
@@ -11,7 +10,6 @@ import org.apache.commons.dbutils.handlers.ScalarHandler;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.spi.CurrencyNameProvider;
 
 /**
  * Created by codingBoy on 16/10/23.

@@ -1,4 +1,4 @@
-package domain;
+package cn.wdidada.servlet.test.domain;
 
 /**
  * Created by codingBoy on 16/10/23.

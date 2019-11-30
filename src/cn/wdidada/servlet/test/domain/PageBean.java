@@ -1,4 +1,4 @@
-package domain;
+package cn.wdidada.servlet.test.domain;
 
 import java.util.List;
 
